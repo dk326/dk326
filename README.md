@@ -1,16 +1,16 @@
-## Hi there 👋
+![Header Image](https://raw.githubusercontent.com/dumiduddb/Info/refs/heads/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png?token=GHSAT0AAAAAACYQMV6FLYZBDTQ5TPAO25VOZYCH3NA)
 
-<!--
-**dk326/dk326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello 👋
+ 
+I'm Dumidu! I am a prospective **Business Analytics graduate** transitioning from **process improvement** to **data science**. I am passionate about using data to drive informed decision-making.
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
+- Languages: Python, SQL
+- Visualization: Tableau, Power BI, Looker Studio
+- Databases: BigQuery, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects
+Check out my projects [here](https://github.com/dumiduddb).
+
+## 🤝 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/dumidu-kobbekaduwa-320b207b)
