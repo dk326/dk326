@@ -5,9 +5,10 @@
 I'm Dumidu! I am a prospective **Business Analytics graduate** transitioning from **process improvement** to **data science**. I am passionate about using data to drive informed decision-making.
 
 ## 🛠️ Tools & Technologies
-- Languages: Python, SQL
-- Visualization: Tableau, Power BI, Looker Studio
-- Databases: BigQuery, PostgreSQL
+-  Languages: Python, SQL
+- Visualization: Power BI, Looker Studio, Tableau, Excel
+- Machine Learning: Scikit-learn, TensorFlow, Numpy, Pandas, Seaborn 
+- Databases: Google BigQuery
 
 ## 📈 Projects
 Check out my projects [here](https://github.com/dumiduddb).
