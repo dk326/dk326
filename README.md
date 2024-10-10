@@ -11,7 +11,7 @@ I'm Dumidu! I am a prospective **Business Analytics graduate** transitioning fro
 - Databases: Google BigQuery
 
 ## 📈 Projects
-Check out my projects [here](https://github.com/dumiduddb).
+Check out my projects [here](https://github.com/dk326/Portfolio-).
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/dumidu-kobbekaduwa-320b207b)
